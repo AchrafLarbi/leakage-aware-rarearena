@@ -1,0 +1,26 @@
+{
+ "encoder": "NeuML/pubmedbert-base-embeddings",
+ "n_eval_cases": 650,
+ "n_docs_contaminated": 130316,
+ "n_docs_deleaked": 129666,
+ "n_removed": 650,
+ "positive_control": {
+  "leak_at_rank1": 650,
+  "leak_in_topk": 650,
+  "max": 1.0000008344650269,
+  "mean": 1.0,
+  "median": 1.0,
+  "min": 0.9999994039535522
+ },
+ "deleaked": {
+  "max": 0.9686534404754639,
+  "mean": 0.8521726727485657,
+  "median": 0.8578411936759949,
+  "p99": 0.941085159778595,
+  "n_above_0.95": 3,
+  "n_above_0.90": 96,
+  "n_above_0.85": 364
+ },
+ "separation_gap": 0.14782732725143433,
+ "deleaked_reaching_leak_floor": 0
+}

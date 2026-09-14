@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Leakage-Aware Evaluation of Retrieval-Augmented Rare Disease Diagnosis over Biomedical Linked Data"
+repository-code: "https://github.com/AchrafLarbi/leakage-aware-rarearena"
+license: MIT
+authors:
+  - family-names: Larbi
+    given-names: Mohammed Achraf
+  - family-names: Mezrar
+    given-names: Samiha
+  - family-names: Klouche
+    given-names: Badia
+  - family-names: Pons
+    given-names: Olivier
+  - family-names: Kornyshova
+    given-names: Elena
+preferred-citation:
+  type: conference-paper
+  title: "Leakage-Aware Evaluation of Retrieval-Augmented Rare Disease Diagnosis over Biomedical Linked Data"
+  authors:
+    - family-names: Larbi
+      given-names: Mohammed Achraf
+    - family-names: Mezrar
+      given-names: Samiha
+    - family-names: Klouche
+      given-names: Badia
+    - family-names: Pons
+      given-names: Olivier
+    - family-names: Kornyshova
+      given-names: Elena
+  collection-title: "IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)"
+  year: 2026

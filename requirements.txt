@@ -1,0 +1,16 @@
+# Data-preparation scripts (scripts/*.py) use only the Python standard library.
+# The notebooks and scripts/notebook_cells/ need the packages below (GPU run on Kaggle).
+torch
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+huggingface_hub
+datasets
+faiss-cpu          # on a GPU machine: faiss-gpu-cu12
+networkx
+numpy
+pandas
+matplotlib
+seaborn
+rouge_score

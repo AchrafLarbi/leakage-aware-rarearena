@@ -1,0 +1,5 @@
+Model,Embedding,Embedding_Model,Technique,Paper,Exact_Match,Token_F1,ROUGE_L,Cosine_Sim,Semantic_Accuracy,Partial_Accuracy,Hallucination_Rate,Abstention_Rate,HGI,Avg_Inference_Time(s)
+OpenBioLLM,fast,sentence-transformers/all-MiniLM-L6-v2,GraphRAG,"Edge et al., 2024 (arXiv:2404.16130)",0.025,0.037304,0.037304,0.157840,0.040,0.205,0.215,0.540,0.407276,22.113731
+OpenBioLLM,fast,sentence-transformers/all-MiniLM-L6-v2,KG-Augmented RAG,"Baek et al., 2023 (arXiv:2306.04136)",0.020,0.032417,0.032417,0.158015,0.025,0.235,0.140,0.600,0.359955,13.702745
+OpenBioLLM,fast,sentence-transformers/all-MiniLM-L6-v2,RAG-driven CoT,"Wang et al., 2025 (arXiv:2503.12286)",0.020,0.024338,0.026004,0.102205,0.035,0.055,0.030,0.880,0.155430,9.262191
+OpenBioLLM,fast,sentence-transformers/all-MiniLM-L6-v2,CoT-driven RAG,"Wang et al., 2025 (arXiv:2503.12286)",0.015,0.025667,0.028167,0.136964,0.040,0.135,0.130,0.695,0.289063,7.730921

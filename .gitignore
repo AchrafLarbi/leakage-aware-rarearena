@@ -1,0 +1,22 @@
+# large corpora (hosted on Kaggle, see data/README.md)
+data/rag_corpus_*.jsonl
+data/pe_sft_*.jsonl
+data/orphadata/
+
+# notebook run outputs
+hf_cache/
+results-*/
+*.faiss
+*.pkl
+*.npy
+
+# Python / editors
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

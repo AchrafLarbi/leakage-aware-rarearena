@@ -1,0 +1,650 @@
+{"id": "rds_case_0", "target": "IgG4-related disease", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 110}
+{"id": "rds_case_1", "target": "Tracheobronchial Diverticulum", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_2", "target": "Kikuchi-Fujimoto Disease", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 80}
+{"id": "rds_case_3", "target": "precursor B-cell acute lymphoblastic leukemia", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 7}
+{"id": "rds_case_4", "target": "herpes simplex diffuse endotheliitis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 2}
+{"id": "rds_case_5", "target": "Wound Botulism", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 6}
+{"id": "rds_case_6", "target": "Malignant Peripheral Nerve Sheath Tumor", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 34}
+{"id": "rds_case_7", "target": "benign giant cystic lymphangioma of the omentum", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_8", "target": "Erdheim-Chester disease", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 51}
+{"id": "rds_case_9", "target": "Diffuse Large B-Cell Lymphoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 218}
+{"id": "rds_case_10", "target": "Intravascular Large B-Cell Lymphoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 37}
+{"id": "rds_case_11", "target": "Miller Fisher syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 35}
+{"id": "rds_case_12", "target": "Thyroglossal Duct Cyst", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 5}
+{"id": "rds_case_13", "target": "Congenital Fiber Type Disproportion", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 2}
+{"id": "rds_case_14", "target": "Lichen Sclerosus", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 5}
+{"id": "rds_case_15", "target": "T-cell acute lymphoblastic leukemia with BCR-ABL1 gene amplification", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_16", "target": "Primary Umbilical Endometriosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 4}
+{"id": "rds_case_17", "target": "Coccidioidomycosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 16}
+{"id": "rds_case_18", "target": "Nonhemorrhagic adrenal infarction", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_19", "target": "Langerhans Cell Histiocytosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 144}
+{"id": "rds_case_20", "target": "Periductal Stromal Tumor  of the breast", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_21", "target": "Patent Ductus Arteriosus", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 6}
+{"id": "rds_case_22", "target": "Fabry disease", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 50}
+{"id": "rds_case_23", "target": "Bile Duct Traumatic Neuroma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_24", "target": "Acute Liver Failure  in Dengue Fever Without Plasma Leakage", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_25", "target": "Apert syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 8}
+{"id": "rds_case_26", "target": "Heritable Pulmonary Arterial Hypertension", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_27", "target": "Anti-NMDA receptor encephalitis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 54}
+{"id": "rds_case_28", "target": "Legionella pneumophila infection", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 7}
+{"id": "rds_case_29", "target": "Camurati-Engelmann Disease", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 4}
+{"id": "rds_case_30", "target": "Central Retinal Artery Occlusion", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 24}
+{"id": "rds_case_31", "target": "Nasopharyngeal Tuberculosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_32", "target": "WHO Grade 4 glioblastoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_33", "target": "Mineralizing Angiopathy", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_34", "target": "intranodal schwannoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_35", "target": "Schnitzler Syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 8}
+{"id": "rds_case_36", "target": "Dengue-associated acute transverse myelitis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_37", "target": "Herpes Simplex Virus Encephalitis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 9}
+{"id": "rds_case_38", "target": "IgG4-related hypophysitis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 5}
+{"id": "rds_case_39", "target": "Subacute Cutaneous Lupus Erythematosus", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 5}
+{"id": "rds_case_40", "target": "Glomus Tumor", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 36}
+{"id": "rds_case_41", "target": "Primary Mediastinal Ependymoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_42", "target": "IgA vasculitis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 25}
+{"id": "rds_case_43", "target": "Pelvic Venous Congestion Secondary to a Circumaortic Renal Collar", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_44", "target": "Lemierre’s syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 28}
+{"id": "rds_case_45", "target": "Complement-Mediated Hemolytic Uremic Syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_46", "target": "Nail Patella Syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_47", "target": "Hodgkin's disease  consistent with non-EBV-associated post-transplant lymphoproliferative disorder", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_48", "target": "Klippel-Feil Syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 3}
+{"id": "rds_case_49", "target": "Sinus of Valsalva Aneurysm  causing tricuspid valve obstruction", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_50", "target": "Spinocerebellar Ataxia Type 1", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_51", "target": "Diabetic Myonecrosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 19}
+{"id": "rds_case_52", "target": "Immunoglobulin A nephropathy", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 6}
+{"id": "rds_case_53", "target": "Congenital Granular Cell Tumour of the Newborn", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_54", "target": "Arrhythmogenic Right Ventricular Cardiomyopathy", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 29}
+{"id": "rds_case_55", "target": "HATS Syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_56", "target": "Schwannoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 90}
+{"id": "rds_case_57", "target": "Musculoskeletal Tuberculosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_58", "target": "Bladder leiomyoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 6}
+{"id": "rds_case_59", "target": "Atypical Hemolytic-Uremic Syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_60", "target": "Solitary Neurofibroma of the Gingiva", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_61", "target": "Takotsubo cardiomyopathy", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 214}
+{"id": "rds_case_62", "target": "Idiopathic Neuroretinitis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_63", "target": "poorly differentiated synovial sarcoma of the kidney", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_64", "target": "Burkitt’s lymphoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 21}
+{"id": "rds_case_65", "target": "Complete Androgen Insensitivity Syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 16}
+{"id": "rds_case_66", "target": "Malignant Melanotic Nerve Sheath Tumor", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_67", "target": "IgA nephropathy", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 41}
+{"id": "rds_case_68", "target": "Sitosterolemia", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 8}
+{"id": "rds_case_69", "target": "Epithelioid Osteoblastoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 2}
+{"id": "rds_case_70", "target": "Non-seminomatous germ cell tumor", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_71", "target": "Multiple System Atrophy", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 12}
+{"id": "rds_case_72", "target": "Hemophagocytic Syndrome  secondary to Systemic Lupus Erythematosus", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_73", "target": "Guillain–Barré syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 45}
+{"id": "rds_case_74", "target": "Myxopapillary ependymoma with marked hyaline degeneration", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_75", "target": "Sciatic nerve schwannoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_76", "target": "Neuro-Behçet's Disease", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 4}
+{"id": "rds_case_77", "target": "Anomalous origin of left main coronary artery from right coronary artery", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_78", "target": "Superior Mesenteric Artery Syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 57}
+{"id": "rds_case_79", "target": "Primary Sclerosing Cholangitis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 10}
+{"id": "rds_case_80", "target": "Gastrointestinal Stromal Tumor", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 86}
+{"id": "rds_case_81", "target": "Idiopathic Normal Pressure Hydrocephalus", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 8}
+{"id": "rds_case_82", "target": "Desmoid tumor", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 31}
+{"id": "rds_case_83", "target": "Multiple Sclerosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 85}
+{"id": "rds_case_84", "target": "Schistosomiasis caused by Schistosoma japonicum", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_85", "target": "Acquired Methemoglobinemia", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 6}
+{"id": "rds_case_86", "target": "Acute Disseminated Encephalomyelitis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 45}
+{"id": "rds_case_87", "target": "Paraganglioma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 52}
+{"id": "rds_case_88", "target": "B-Cell Prolymphocytic Leukemia", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_89", "target": "Mature gastric teratoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_90", "target": "Hypopigmented Mycosis Fungoides", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_91", "target": "Hereditary ATTR Amyloidosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_92", "target": "Benign Multicystic Mesothelioma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 2}
+{"id": "rds_case_93", "target": "Celiac Disease", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 69}
+{"id": "rds_case_94", "target": "Peripheral T-cell Lymphoma, Not Otherwise Specified", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 13}
+{"id": "rds_case_95", "target": "Complex Regional Pain Syndrome  Type 2", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 3}
+{"id": "rds_case_96", "target": "Pheochromocytoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 149}
+{"id": "rds_case_97", "target": "Extramammary Paget's Disease", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 7}
+{"id": "rds_case_98", "target": "Behçet’s disease", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 22}
+{"id": "rds_case_99", "target": "Gitelman syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 41}
+{"id": "rds_case_100", "target": "Osteogenesis Imperfecta  with Dentinogenesis Imperfecta", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_101", "target": "Visceral Leishmaniasis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 61}
+{"id": "rds_case_102", "target": "Juvenile Trabecular Ossifying Fibroma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 2}
+{"id": "rds_case_103", "target": "pheochromocytoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 149}
+{"id": "rds_case_104", "target": "Multiple Myeloma with Testicular Plasmacytoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_105", "target": "Inflammatory myofibroblastic tumor  of the lacrimal gland", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_106", "target": "Cherubism", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 16}
+{"id": "rds_case_107", "target": "Filariasis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 5}
+{"id": "rds_case_108", "target": "Appendiceal Crohn's Disease", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_109", "target": "Congenital mid-tracheal stenosis with complete tracheal rings", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_110", "target": "Lupoid cutaneous leishmaniasis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_111", "target": "Anti-MDA-5 positive dermatomyositis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_112", "target": "localized tenosynovial giant cell tumor", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_113", "target": "Mesenchymal chondrosarcoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 14}
+{"id": "rds_case_114", "target": "Constrictive Pericarditis secondary to Purulent Bacterial Pericarditis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_115", "target": "Jeune syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 7}
+{"id": "rds_case_116", "target": "Pseudomembranous Necrotizing Tracheitis due to Aspergillus fumigatus infection", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_117", "target": "Familial Hypokalemic Periodic Paralysis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 3}
+{"id": "rds_case_118", "target": "Antiphospholipid antibody syndrome  associated with acute cytomegalovirus  infection", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_119", "target": "Tricuspid Valve Papillary Fibroelastoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_120", "target": "Acute Idiopathic Blind Spot Enlargement", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_121", "target": "Gallbladder Tuberculosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 3}
+{"id": "rds_case_122", "target": "Proliferative glomerulonephritis with monoclonal IgG deposits", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 6}
+{"id": "rds_case_123", "target": "Endometriosis cyst at cesarean scar defect", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_124", "target": "Juvenile Xanthogranuloma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 19}
+{"id": "rds_case_125", "target": "Cyclic Thrombocytopenia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_126", "target": "Caroli’s Syndrome  with congenital hepatic fibrosis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_127", "target": "Chronic Silicosis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_128", "target": "MAN1B1-CDG", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_129", "target": "Patent Foramen Ovale", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 28}
+{"id": "rds_case_130", "target": "Raghib Syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_131", "target": "Neuroleptic Malignant Syndrome  with Thyroid Disorder", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_132", "target": "Angioleiomyoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 26}
+{"id": "rds_case_133", "target": "Arrhythmogenic Right Ventricular Cardiomyopathy", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 29}
+{"id": "rds_case_134", "target": "Drug-related Bullous Pemphigoid", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_135", "target": "Severe Aplastic Anemia", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_136", "target": "Acute Disseminated Encephalomyelitis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 45}
+{"id": "rds_case_137", "target": "Inflammatory Pseudotumor", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 14}
+{"id": "rds_case_138", "target": "Madelung’s Disease", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 3}
+{"id": "rds_case_139", "target": "Kawasaki Disease", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 90}
+{"id": "rds_case_140", "target": "Hepatic Tuberculosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 11}
+{"id": "rds_case_141", "target": "Follicular Lymphoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 8}
+{"id": "rds_case_142", "target": "Neuromyelitis Optica", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 31}
+{"id": "rds_case_143", "target": "Granulomatous Mastitis associated with Systemic Lupus Erythematosus", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_144", "target": "Gastrointestinal Stromal Tumor", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 86}
+{"id": "rds_case_145", "target": "Bordetella holmesii infective endocarditis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_146", "target": "Alpha-1 antitrypsin deficiency", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 9}
+{"id": "rds_case_147", "target": "Idiopathic Pulmonary Arterial Hypertension", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 7}
+{"id": "rds_case_148", "target": "midbrain tuberculoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_149", "target": "Anti-NMDAR encephalitis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 24}
+{"id": "rds_case_150", "target": "Polycythemia Vera", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 30}
+{"id": "rds_case_151", "target": "Acquired Aplastic Anemia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_152", "target": "Chronic non-cirrhotic portal vein thrombosis with cavernous transformation secondary to protein C and S deficiency", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_153", "target": "Primary Aldosteronism due to Unilateral Aldosterone-producing Adenoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_154", "target": "sarcomatoid carcinoma of the jejunum", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_155", "target": "Drug-Induced Hypersensitivity Syndrome /Drug Rash with Eosinophilia and Systemic Symptoms", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_156", "target": "Fungal Conjunctivitis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_157", "target": "Toxic Shock Syndrome  caused by Methicillin-Resistant Staphylococcus aureus", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_158", "target": "Type I Papillary Renal Cell Carcinoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_159", "target": "Solitary Fibrous Tumor  of the retroperitoneum", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_160", "target": "17q12 deletion syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_161", "target": "Seronegative Myasthenia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_162", "target": "Hypoglossal Nerve Paraganglioma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_163", "target": "Pulmonary Artery Hypertension", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_164", "target": "Posterior Nutcracker Syndrome with Left Renal Vein Duplication", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_165", "target": "Obstructed Hemivagina and Ipsilateral Renal Anomaly  Syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_166", "target": "Cavernous Angioma with Intralesional Bleeding", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_167", "target": "Exertional heat stroke", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_168", "target": "Hemophagocytic Lymphohistiocytosis  secondary to Epstein-Barr Virus  infection associated with Adult-Onset Still’s Disease", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_169", "target": "Nodular Regenerative Hyperplasia  of the liver", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 2}
+{"id": "rds_case_170", "target": "Tangier disease", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 2}
+{"id": "rds_case_171", "target": "amyotrophic lateral sclerosis-frontotemporal spectrum disorder", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_172", "target": "Methemoglobinemia induced by indoxacarb poisoning", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_173", "target": "46, XX, dert", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_174", "target": "Inferior sinus venosus interatrial communication associated with a secundum atrial septal defect", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_175", "target": "Clavicular osteomyelitis due to extra pulmonary tuberculosis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_176", "target": "Myoclonus Epilepsy with Ragged-Red Fibers  syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_177", "target": "COVID-19-associated thrombotic thrombocytopenic purpura", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_178", "target": "Kikuchi-Fujimoto Disease  with Hemophagocytic Lymphohistiocytosis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_179", "target": "William-Campbell syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_180", "target": "POLR3A-related leukodystrophy", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_181", "target": "Primary Lymph Node Plasmacytoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_182", "target": "Fibrillary glomerulonephritis with prevalent IgA deposition", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_183", "target": "Multiple Mitochondrial Dysfunctions Syndrome 4", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_184", "target": "Luteinizing hormone-secreting pituitary adenoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_185", "target": "Acute Intermittent Porphyria", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 39}
+{"id": "rds_case_186", "target": "Situs ambiguus with right isomerism and associated congenital cardiac anomalies", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_187", "target": "ACTH-independent Cushing's Syndrome due to primary bilateral macronodular adrenal hyperplasia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_188", "target": "Invasive Paget’s Disease of the Breast", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_189", "target": "Infective Endocarditis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 73}
+{"id": "rds_case_190", "target": "lipemia retinalis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_191", "target": "Acute Macular Neuroretinopathy", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 35}
+{"id": "rds_case_192", "target": "Frasier Syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_193", "target": "Indeterminate cell histiocytosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_194", "target": "myeloid sarcoma with megakaryocytic differentiation", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_195", "target": "Colonic Paragonimiasis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_196", "target": "Cylindroma of the Breast", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_197", "target": "Galactose mutarotase deficiency", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_198", "target": "Multiple Carboxylase Deficiency  secondary to low biotinidase levels", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_199", "target": "Diffuse Pigmented Villonodular Synovitis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_200", "target": "Infectious Endophthalmitis caused by Brucella melitensis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_201", "target": "extra-abdominal desmoid tumour", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_202", "target": "Infantile Myofibromatosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 3}
+{"id": "rds_case_203", "target": "Spontaneous cardiac tamponade secondary to a coronary artery injury attributed to a calcified pericardial plaque", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_204", "target": "Extramedullary Plasmacytoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 14}
+{"id": "rds_case_205", "target": "Idiopathic Bilateral Simultaneous Facial Nerve Palsy", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_206", "target": "Cutaneous Larva Migrans", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 15}
+{"id": "rds_case_207", "target": "Necrotizing Fasciitis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 27}
+{"id": "rds_case_208", "target": "Intracranial Hypotension leading to Brain Sag", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_209", "target": "MOG antibody–associated encephalomyelitis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_210", "target": "Neuroendocrine Tumor causing Ectopic ACTH Production", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_211", "target": "Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like episodes", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 6}
+{"id": "rds_case_212", "target": "Glycogen Storage Disease Type IV", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_213", "target": "Hepatic Parasitic Abscess caused by Clonorchiasis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_214", "target": "46 XY Ovotesticular Disorder", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_215", "target": "peripheral primitive neuroectodermal tumor  of the pancreas", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_216", "target": "Primary Hepatic Neuroendocrine Tumor", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 10}
+{"id": "rds_case_217", "target": "Trisomy 12p", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_218", "target": "Neuroendocrine Small Cell Carcinoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_219", "target": "Denys–Drash Syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_220", "target": "Neutrophilic Dermatosis of the Hands", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_221", "target": "macrodactyly", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_222", "target": "Oral Malignant Melanoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 4}
+{"id": "rds_case_223", "target": "non-involuting congenital hemangioma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_224", "target": "Functional deficiency of urea cycle enzyme", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_225", "target": "Hypermanganesemia with Dystonia Type 2", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 2}
+{"id": "rds_case_226", "target": "Pituitary Macroadenoma secondary to Congenital Hypothyroidism", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_227", "target": "Mediastinal Schwannoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_228", "target": "Multicentric Carpotarsal Osteolysis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_229", "target": "Localized Tetanus", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_230", "target": "Differentiated Follicular Thyroid Carcinoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_231", "target": "Pulmonary hypertension secondary to unilateral absence of the left pulmonary artery", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_232", "target": "Spindle cell variant of squamous cell carcinoma  of the tongue", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_233", "target": "Myelodysplasia with excess blasts type 2 progressing to Acute Myeloid Leukemia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_234", "target": "Multicentric Reticulohistiocytosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 8}
+{"id": "rds_case_235", "target": "West Nile Virus encephalitis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 6}
+{"id": "rds_case_236", "target": "Filariasis of the breast", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_237", "target": "Carcinosarcoma of the Breast", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_238", "target": "Prosthetic valve endocarditis caused by Pseudomonas luteola", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_239", "target": "Cat-scratch disease", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 10}
+{"id": "rds_case_240", "target": "Werner's Syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_241", "target": "Kawasaki disease with hepatobiliary involvement", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_242", "target": "Invasive fusariosis caused by Fusarium solani", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_243", "target": "Gastrointestinal Histoplasmosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 6}
+{"id": "rds_case_244", "target": "Ehlers-Danlos syndrome, hypermobility type III", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_245", "target": "Cerebral Wegener's Granuloma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_246", "target": "Type AB Thymoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_247", "target": "benign nasal schwannoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_248", "target": "Desmoplastic Melanoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_249", "target": "Extrapulmonary intrathoracic hydatidosis with pseudochylothorax", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_250", "target": "Osteonecrosis of the jaw in the context of AIDS", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_251", "target": "Monoclonal Gammopathy of Renal Significance  with non-hepatitis-associated mixed cryoglobulinemic glomerulonephritis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_252", "target": "Behcet’s syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_253", "target": "Diaphragmatic Hernia", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 4}
+{"id": "rds_case_254", "target": "Eosinophilic Fasciitis with Myositis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_255", "target": "Disseminated Mycobacterium bovis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_256", "target": "Thyroid Sarcoidosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 2}
+{"id": "rds_case_257", "target": "Precursor B Cell Lymphoblastic Leukemia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_258", "target": "Extradural Hydatid Cyst", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_259", "target": "Pilomatrixoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 19}
+{"id": "rds_case_260", "target": "Myelin oligodendrocyte glycoprotein antibody-associated disease", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 14}
+{"id": "rds_case_261", "target": "Testicular desmoplastic small round cell tumor", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_262", "target": "Mycotic pseudoaneurysm of the extracranial carotid artery", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_263", "target": "Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_264", "target": "Dedifferentiated chondrosarcoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 4}
+{"id": "rds_case_265", "target": "Hydatid disease of the right femur", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_266", "target": "Arterial Occlusion due to Thrombus Formation", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_267", "target": "Deletion 4q syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_268", "target": "Piperacillin-Induced Immune Hemolytic Anemia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_269", "target": "X-linked congenital nephrogenic diabetes insipidus", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_270", "target": "Gastrointestinal Stromal Tumor , low-risk type", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_271", "target": "Mazabraud's syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_272", "target": "Ganglioglioma , grade I WHO 2016", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_273", "target": "Recurrent Follicular Lymphoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_274", "target": "Primary Myxofibrosarcoma of the Left Atrium", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_275", "target": "Hb D-β thalassemia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_276", "target": "Abdominopelvic Tuberculosis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_277", "target": "3-Methylglutaconyl-Coenzyme-A Hydratase Deficiency", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_278", "target": "sarcomatoid renal cell carcinoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_279", "target": "Neuroendocrine tumor of the appendix", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_280", "target": "Isolated Tuberculous Mediastinal Lymphadenopathy", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_281", "target": "anterior mediastinal benign fibrous tumor", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_282", "target": "Renal Artery Fibromuscular Dysplasia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_283", "target": "Pemphigus Herpetiformis with anti-Desmocollin 3 antibodies", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_284", "target": "Auriculocondylar Syndrome 1", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_285", "target": "Dyschromatosis universalis hereditaria", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 5}
+{"id": "rds_case_286", "target": "Post-infective transverse myelitis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_287", "target": "Well-Differentiated Grade 1  Neuroendocrine Tumor", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_288", "target": "Complete Heart Block Secondary to Microscopic Polyangiitis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_289", "target": "Benign Phyllodes Tumor", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 5}
+{"id": "rds_case_290", "target": "Wolf-Hirschhorn syndrome with ring chromosome 4", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_291", "target": "NUT carcinoma of hepatic origin", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_292", "target": "Pulmonary Arterio-Venous Fistula", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_293", "target": "Autism Spectrum Disorder  associated with CHD8 mutations", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_294", "target": "small bowel hemangioma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_295", "target": "Kaposi's sarcoma associated with Human herpesvirus 8", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_296", "target": "ossifying fasciitis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_297", "target": "renal sarcoidosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 2}
+{"id": "rds_case_298", "target": "Pulmonary Valve Infective Endocarditis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_299", "target": "Septic thrombosis of the internal jugular vein", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_300", "target": "Unicornuate uterus with ectopic ovary", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_301", "target": "Pheochromocytoma crisis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_302", "target": "Acute Porphyria", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 2}
+{"id": "rds_case_303", "target": "Poorly cohesive adenocarcinoma of the ampulla of Vater", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_304", "target": "Epstein–Barr virus-associated hemophagocytic syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_305", "target": "Swyer Syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 4}
+{"id": "rds_case_306", "target": "Severe Adult-Onset Still's Disease", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_307", "target": "Scedosporium apiospermum fungaemia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_308", "target": "V180I Genetic Creutzfeldt-Jakob Disease", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_309", "target": "Hodgkin's Lymphoma  associated with Hemophagocytic Lymphohistiocytosis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_310", "target": "Benign self-limiting cystic lesion", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_311", "target": "Adult Wilms' Tumor", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_312", "target": "Autosomal Recessive Progressive External Ophthalmoplegia  due to POLG mutation", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_313", "target": "Hemangioma of the Rib", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_314", "target": "Heterotopic sebaceous glands in the esophagus", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_315", "target": "Cutaneous mucormycosis caused by Saksenaea vasiformis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_316", "target": "Vitamin D-resistant rickets due to a novel heterozygous mutation of the Vitamin D receptor", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_317", "target": "Well-Differentiated Mastocytosis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_318", "target": "Congenital Bilateral Perisylvian Syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_319", "target": "Tracheal Carcinoid Tumor", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_320", "target": "Ulnar Longitudinal Deficiency", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_321", "target": "Intestinal Obstruction Due to an Anomalous Congenital Band", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_322", "target": "Overlap syndrome of type 2 autoimmune hepatitis and small duct sclerosing cholangitis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_323", "target": "Pneumocystis jirovecii pneumonia  in a patient with AIDS", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_324", "target": "Congenital Chylous Ascites", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_325", "target": "Ocular Dirofilariosis due to Dirofilaria repens", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_326", "target": "Cardiofaciocutaneous Syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_327", "target": "ACTH-secreting mediastinal paraganglioma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_328", "target": "Primary Renal Osteosarcoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_329", "target": "Pituitary Adenoma causing Pediatric Acromegaly", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_330", "target": "HNF1B nephropathy", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_331", "target": "High-grade B-cell Non-Hodgkin's Lymphoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_332", "target": "Intracranial retinoblastoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_333", "target": "Type B2 Thymoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_334", "target": "Ectopic adrenocorticotropic hormone syndrome  associated with olfactory neuroblastoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_335", "target": "Amebic abscess caused by Entamoeba histolytica", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_336", "target": "TAFRO-like syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_337", "target": "Primary systemic amyloidosis of tongue", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_338", "target": "Sigmoid Actinomycosis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_339", "target": "Mycobacterium kansasii endocarditis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_340", "target": "Bilateral Iris Coloboma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_341", "target": "Dent disease", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_342", "target": "Isolated adrenocorticotropic hormone deficiency  probably secondary to lymphocytic hypophysitis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_343", "target": "Avascular necrosis of the capitate", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_344", "target": "Acute Necrotizing Encephalopathy  due to RANBP2 mutation", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_345", "target": "West Nile virus meningoencephalitis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 2}
+{"id": "rds_case_346", "target": "Ovarian endometrioid carcinoma resembling sex cord-stromal tumor", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_347", "target": "Bazex syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_348", "target": "Microangiopathic Antiphospholipid-Associated Syndromes", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_349", "target": "Nail-patella syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_350", "target": "Graves' disease with thyroid-related ophthalmopathy", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_351", "target": "Nasal NK/T cell lymphoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_352", "target": "Balantidiasis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_353", "target": "Nasopharyngeal Angiofibroma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_354", "target": "Peutz–Jeghers Syndrome  with solitary jejunal polyp", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_355", "target": "Cardiac and Hepatic Echinococcosis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_356", "target": "B-cell non-Hodgkin's lymphoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_357", "target": "Oncogenic Osteomalacia  due to Mesenchymal Phosphaturic Tumor", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_358", "target": "Primary Alveolar Soft Part Sarcoma of the Lung", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_359", "target": "Intraosseous schwannoma of the femur", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_360", "target": "X-linked thrombocytopenia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_361", "target": "Bullous Pemphigoid", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 45}
+{"id": "rds_case_362", "target": "Candida glabrata infection", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_363", "target": "disseminated extrapulmonary tuberculosis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_364", "target": "Epidermoid tumor of the quadrigeminal cistern", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_365", "target": "Spinal adhesive arachnoiditis complicated by communicating hydrocephalus", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_366", "target": "Postherpetic Neuralgia", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_367", "target": "Tubercular Arachnoiditis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_368", "target": "Monoclonal Gammopathy of Renal Significance  triggering atypical Hemolytic Uremic Syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_369", "target": "Nephrotic Syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 2}
+{"id": "rds_case_370", "target": "Jejunal Atresia", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_371", "target": "Adult-Onset Still's Disease  with Macrophage Activation Syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_372", "target": "Pleomorphic Adenoma of the right submandibular gland", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_373", "target": "Pulmonary Arterial Hypertension  secondary to Adult-Onset Still's Disease", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_374", "target": "Multifocal Atrial Tachycardia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_375", "target": "Giant cell tumor of the clivus", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_376", "target": "Pneumocystis jiroveci pneumonia", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 4}
+{"id": "rds_case_377", "target": "Delayed Toxic-Hypoxic Leukoencephalopathy", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_378", "target": "Acute Transverse Myelitis  post-COVID-19 infection", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_379", "target": "Photoinduced acute exanthematous pustulosis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_380", "target": "Cryptococcus gattii meningitis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 4}
+{"id": "rds_case_381", "target": "Schizencephaly with associated cortical dysplasia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_382", "target": "Pseudohyperkalemia secondary to Polycythemia Vera", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_383", "target": "Neuromeningeal Cryptococcosis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_384", "target": "Systemic Chronic Active Epstein–Barr Virus  Infection", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_385", "target": "Phaeochromocytoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 7}
+{"id": "rds_case_386", "target": "Membranoproliferative Glomerulonephritis  Type 3 associated with Pemphigus Herpetiformis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_387", "target": "ANCA-associated vasculitis , specifically granulomatosis with polyangiitis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_388", "target": "Papillary Carcinoma within a Thyroglossal Cyst", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_389", "target": "Primary cutaneous B-cell lymphoma—leg type", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_390", "target": "You-Hoover-Fong syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_391", "target": "Grade 2 well-differentiated neuroendocrine tumor of the pancreas", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_392", "target": "Internuclear Ophthalmoplegia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_393", "target": "Diffuse large B-cell lymphoma  of the terminal ileum", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_394", "target": "Revesz syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_395", "target": "Atypical Hemolytic Uremic Syndrome  caused by Streptococcus pneumoniae pneumonia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_396", "target": "Agenesis of the Corpus Callosum", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_397", "target": "Classical Hodgkin Lymphoma , mixed cellularity variant", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_398", "target": "Ewing's Sarcoma  of Seminal Vesicles", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_399", "target": "Uremic Pericarditis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_400", "target": "Acquired Immunodeficiency Syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 2}
+{"id": "rds_case_401", "target": "Cerebral Venous Thrombosis  in the Superior Sagittal Sinus", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_402", "target": "Cystic echinococcosis  of the psoas muscle", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_403", "target": "Sensenbrenner syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_404", "target": "Shiga toxin-associated haemolytic uraemic syndrome  with a rare genetic variant in C3", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_405", "target": "Early mucinous adenocarcinoma arising from the anal gland", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_406", "target": "Tropical Pyomyositis caused by Streptococcus pneumoniae", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_407", "target": "Inflammatory Myofibroblastic Pseudotumour", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_408", "target": "Pulmonary Paragonimiasis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 4}
+{"id": "rds_case_409", "target": "Scedosporium apiospermum pneumonia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_410", "target": "Diaphragmatic hernia with inflamed, friable, incarcerated omentum", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_411", "target": "Neutrophilic dermatosis of dorsal hands", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_412", "target": "MODY9", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_413", "target": "Chronic Myeloid Leukemia , Ph + positive", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_414", "target": "Fenestrated Atrial Septal Aneurysm", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_415", "target": "Omental Well-Differentiated Liposarcoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_416", "target": "Knobloch syndrome due to mutation in COL18A1 gene", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_417", "target": "Myocysticercosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_418", "target": "Reticulate Acropigmentation of Kitamura", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_419", "target": "c-ANCA-associated vasculitis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_420", "target": "Gastric and Pancreatic Plasmacytomas", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_421", "target": "Allgrove’s syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_422", "target": "Obliterative Portal Venopathy  secondary to oral contraceptive pill  use", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_423", "target": "myelofibrosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_424", "target": "Partial Androgen Insensitivity Syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_425", "target": "Inverted papilloma with malignant transformation to squamous cell carcinoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_426", "target": "Hydatid cyst with cystobiliary fistula formation resulting in portal hypertension and cirrhosis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_427", "target": "Donor-derived chronic myelomonocytic leukemia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_428", "target": "Pituitary adenoma, chromophobe adenoma of the pituitary", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_429", "target": "Myosin Storage Myopathy due to novel missense mutation in the MYH7 gene", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_430", "target": "right frontotemporal predominant behavioral variant frontotemporal dementia  with a novel progranulin mutation", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_431", "target": "VACTERL spectrum", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_432", "target": "Mesenteric fibromatosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 11}
+{"id": "rds_case_433", "target": "Left anterior descending coronary artery to left upper lobe bronchus fistula", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_434", "target": "Aspergillus osteomyelitis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_435", "target": "CARMIL2-associated Combined Immunodeficiency", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_436", "target": "Isolated Pauci-Immune Pulmonary Capillaritis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_437", "target": "Chronic Neutrophilic Leukemia  associated with the absence of chromosome 17", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_438", "target": "well-differentiated hepatocellular carcinoma  with peliosis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_439", "target": "Cat Scratch Disease  caused by Bartonella henselae", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_440", "target": "Primary pulmonary adenocarcinoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_441", "target": "Cryptosporidium colitis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_442", "target": "Legionnaires' disease caused by L. pneumophila serogroup 3", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_443", "target": "Infective Endocarditis  caused by MSSA", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_444", "target": "Primary T-cell lymphoma of the thyroid", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_445", "target": "Wolff-Parkinson-White  syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 6}
+{"id": "rds_case_446", "target": "Conn’s adenoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_447", "target": "Focal Cortical Dysplasia in the Left Front-Insular Region", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_448", "target": "Maffucci’s syndrome with giant tubular adenoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_449", "target": "non-classical Fabry Disease", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_450", "target": "Anomalous Right Superior Vena Cava", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_451", "target": "Onychomycosis caused by Aspergillus niger", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_452", "target": "Arteriovenous malformation of the maxillary sinus", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_453", "target": "Infectious crystalline keratopathy caused by Cladosporium sp.", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_454", "target": "Anti-gamma aminobutyric acid-B receptor  encephalitis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_455", "target": "acute erythroid leukemia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_456", "target": "Esthesioneuroblastoma, subclass A", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_457", "target": "Cardiac Lymphangioma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_458", "target": "Leptospira fainei infection", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_459", "target": "Superficial vaginal myofibroblastoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_460", "target": "CHRNA7 15q13.3 microdeletion", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_461", "target": "Solitary Extramedullary Plasmacytoma of the Esophagus", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_462", "target": "Atypical Tako-tsubo Cardiomyopathy", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_463", "target": "Type 1 Autoimmune Pancreatitis  with IgG4-related Gastrointestinal Disease", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_464", "target": "Respiratory Segmental Dystonia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_465", "target": "Cushing's Syndrome due to Rathke's Cleft Cyst with ACTH cell hyperplasia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_466", "target": "Thoracic psammomatous meningioma with osseous metaplasia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_467", "target": "Inflammatory Linear Verrucous Epidermal Nevus", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 2}
+{"id": "rds_case_468", "target": "Primary Failure of Eruption", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_469", "target": "Calcipenic Rickets", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_470", "target": "Lymphocytic Esophagitis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 7}
+{"id": "rds_case_471", "target": "Ankylosing Spondylitis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 12}
+{"id": "rds_case_472", "target": "Acute Kidney Injury with Renal Hypouricemia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_473", "target": "Intravascular Large B Cell Lymphoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 4}
+{"id": "rds_case_474", "target": "Heart Echinococcus Cyst", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_475", "target": "Sitosterolaemia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_476", "target": "Acute Hypersensitivity Pneumonitis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_477", "target": "Glanzmann's Thrombasthenia", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 3}
+{"id": "rds_case_478", "target": "Leber congenital amaurosis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_479", "target": "Alpers-Huttenlocher Syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_480", "target": "Mycobacterium tuberculosis pyomyositis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_481", "target": "Early Post-myocardial Infarction Pericarditis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_482", "target": "Hepatic and Mesenteric Hydatid Disease", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_483", "target": "Pancreatic Acinar Cell Carcinoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 2}
+{"id": "rds_case_484", "target": "Nonsyndromic Oligodontia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_485", "target": "Culture-negative subacute bacterial endocarditis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_486", "target": "Gastrinoma with Zollinger-Ellison Syndrome  associated with Multiple Endocrine Neoplasia Type 1", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_487", "target": "Familial Hemophagocytic Lymphohistiocytosis Type 2  due to PRF1 mutation", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_488", "target": "Aortic Valve Leaflet Aneurysm", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_489", "target": "Williams–Beuren syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_490", "target": "Isolated Left Ventricular Noncompaction Cardiomyopathy", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_491", "target": "Necrotic choroidal melanoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_492", "target": "Idiopathic Pleuroparenchymal Fibroelastosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 7}
+{"id": "rds_case_493", "target": "Primary thymic adenocarcinoma with signet ring cell-like features", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_494", "target": "Transient antenatal Bartter’s syndrome due to a novel MAGED2 variant", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_495", "target": "Intra-cerebellar astrocytoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_496", "target": "Extraluminal type of duodenal gastrointestinal stromal tumor", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_497", "target": "Myoepithelioma of the minor salivary glands involving the base of the tongue", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_498", "target": "Avascular Necrosis of the Trapezium", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_499", "target": "Congenital Heart Disease with Pulmonary Arterial Hypertension", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_500", "target": "invasive blue nevus", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_501", "target": "Spider angioma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_502", "target": "primary renal non-Hodgkin lymphoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_503", "target": "Fahr's syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_504", "target": "Mosaic Turner Syndrome with 45,X/46,XY mosaicism", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_505", "target": "Luscan-Lumish syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_506", "target": "benign giant cell tumor", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_507", "target": "hemangiomatous ameloblastoma with spindle cell proliferation", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_508", "target": "benign myoepithelioma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_509", "target": "Urethral caruncle of the angiomatous type", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_510", "target": "dysplastic cerebellar gangliocytoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_511", "target": "Ectopic peritoneal paragonimiasis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_512", "target": "Diffuse Large B-Cell Lymphoma  of Non-Germinal Center B Type", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_513", "target": "Intermediate-grade neuroendocrine tumor", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_514", "target": "PiFF homozygote variant of alpha-1-antitrypsin deficiency", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_515", "target": "Splenic Vein Thrombosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 2}
+{"id": "rds_case_516", "target": "Dedifferentiated Paratesticular Liposarcoma with Osseous Metaplasia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_517", "target": "Solitary Fibrous Tumor of the Eyelid", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_518", "target": "Subcutaneous Granuloma Annulare", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_519", "target": "Diffuse Large B-Cell Lymphoma  localized to the thyroid gland", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_520", "target": "Pure Red Cell Aplasia  mediated by anti-EPO antibodies", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_521", "target": "Giant choledochal cyst", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_522", "target": "Endocarditis due to Rhodotorula mucilaginosa", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_523", "target": "Cerebral Proliferative Angiopathy", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 2}
+{"id": "rds_case_524", "target": "Syringomatous Tumour", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_525", "target": "NLRP3-associated autoinflammatory disease", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_526", "target": "Tuberculous thyroiditis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_527", "target": "Congenital infantile digital fibromatosis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_528", "target": "Cerebral Venous Sinus Thrombosis  secondary to Neurobrucellosis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_529", "target": "Gardner Syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 4}
+{"id": "rds_case_530", "target": "Bosch–Boonstra–Schaaf optic atrophy syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_531", "target": "Type 2 Necrotizing Soft Tissue Infection  caused by group A, beta-hemolytic Streptococcus pyogenes", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_532", "target": "Alexander's disease", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_533", "target": "Primary spindle cell sarcoma of the orbit", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_534", "target": "Coronary Arteriovenous Fistula", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_535", "target": "Cervicothoracic Intradural Arachnoid Cyst", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_536", "target": "Leukodystrophy", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_537", "target": "Nosocomial keratitis caused by methicillin-resistant Staphylococcus aureus", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_538", "target": "Nanophthalmos", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 4}
+{"id": "rds_case_539", "target": "Idiopathic Uveal Effusion Syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_540", "target": "Pleomorphic Mantle Cell Lymphoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_541", "target": "Chikungunya Virus-Associated Encephalomyelitis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_542", "target": "Chromosome Deletion 14q32.33", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_543", "target": "Isoniazid Mono-Resistant Tuberculosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_544", "target": "Pancreatic Ganglioneuroma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_545", "target": "Sinonasal immunoglobulin G4-related disease", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_546", "target": "Barraquer–Simons syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_547", "target": "ADAMTS18-related anterior segment dysgenesis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_548", "target": "Gastrointestinal Stromal Tumor , spindle cell type in the ileum part of the small intestine", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_549", "target": "Human Toxocariasis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_550", "target": "Type II Peter’s anomaly", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_551", "target": "Immature Germ Cell Teratoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_552", "target": "Intestinal Schwannoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_553", "target": "Brucella Septic Arthritis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_554", "target": "Zimmermann–Laband Syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_555", "target": "True thymic hyperplasia causing pure red cell aplasia", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_556", "target": "Relapse of Immunoglobulin A  monoclonal kappa plasma cell neoplasm manifesting as pleural plasmacytoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_557", "target": "EAST syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_558", "target": "Cryptococcal pneumonia", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 4}
+{"id": "rds_case_559", "target": "Left Ventricle Noncompaction", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_560", "target": "Q fever vertebral osteomyelitis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_561", "target": "Segmental Darier's disease", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_562", "target": "classic medulloblastoma, WHO grade IV", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_563", "target": "KID syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_564", "target": "Christ-Siemens-Touraine syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_565", "target": "Familial Creutzfeldt–Jakob Disease", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_566", "target": "Duodenum Follicular Lymphoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_567", "target": "Hemolytic Disease of the Newborn  secondary to Rh isoimmunization with anti-D antibodies", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_568", "target": "Charcot-Marie-Tooth type 1A", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_569", "target": "Pure Primary Large Cell Neuroendocrine Carcinoma of the Gallbladder", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_570", "target": "Composite haemangioendothelioma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_571", "target": "Bellini Duct Carcinoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_572", "target": "Duodenal Embryonal Carcinoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_573", "target": "Syndrome of Inappropriate Antidiuretic Hormone", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 3}
+{"id": "rds_case_574", "target": "Type 2 intermittent Brugada Syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_575", "target": "Isolated Bifid Uvula", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_576", "target": "Leflunomide-Induced Immune-Mediated Necrotizing Myopathy", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_577", "target": "Primary adenosquamous carcinoma of the liver", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_578", "target": "Tracheal Glomus Tumor", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 2}
+{"id": "rds_case_579", "target": "DCTN1-related distal hereditary motor neuropathy  plus congenital foot deformity", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_580", "target": "extra-adrenal paraganglioma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 7}
+{"id": "rds_case_581", "target": "Primary Pulmonary Amebiasis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_582", "target": "CLIFAHDD syndrome with a novel variant in the NALCN gene", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_583", "target": "FIGO Stage 1A Grade 2 immature teratoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_584", "target": "Localized Discoid Lupus Erythematosus", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_585", "target": "Malignant Pleural Mesothelioma in situ", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_586", "target": "Alveolar Soft Part Sarcoma  of the uterus", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_587", "target": "Malaria-associated secondary hemophagocytic lymphohistiocytosis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_588", "target": "Acute Pulmonary Schistosomiasis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_589", "target": "Extradural Tuberculoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_590", "target": "Corticobasal Syndrome  with a novel TBK1 variant", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_591", "target": "Infected aneurysm caused by Listeria monocytogenes", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_592", "target": "Antineutrophil Cytoplasmic Antibody-Associated Vasculitis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_593", "target": "Oral Erythema Multiforme", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_594", "target": "Antiphospholipid-related chorea", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_595", "target": "15q11.2 BP1-BP2 microdeletion syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_596", "target": "Maturity Onset Diabetes of the Young type 2", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_597", "target": "Primary Yolk Sac Tumor  in the Cerebellar Hemisphere", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_598", "target": "Enteric fever caused by Salmonella enterica serotype paratyphi A", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_599", "target": "Epithelioid Sarcoma  proximal type", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_600", "target": "Abdominal Intraluminal Gossypiboma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_601", "target": "Cavernoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_602", "target": "Strongyloides infection", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_603", "target": "Townes–Brocks syndrome", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_604", "target": "Diffuse Large B-cell Lymphoma  associated with chronic inflammation", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_605", "target": "Bacterial endocarditis associated with proteinase 3 anti-neutrophil cytoplasm antibody", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_606", "target": "Appendiceal Schistosomiasis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_607", "target": "Epstein-Barr Virus-Associated Smooth Muscle Tumor", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_608", "target": "Mast Cell Sarcoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_609", "target": "Pneumonia caused by Listeria monocytogenes", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_610", "target": "Hemophagocytic Lymphohistiocytosis  secondary to Epstein-Barr Virus  infection", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_611", "target": "Nance–Horan Syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_612", "target": "Bladder Endometrioma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_613", "target": "Intestinal T-cell lymphoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_614", "target": "Retinitis Pigmentosa", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 3}
+{"id": "rds_case_615", "target": "Autoimmune Pulmonary Alveolar Proteinosis", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 11}
+{"id": "rds_case_616", "target": "Secondary Sclerosing Cholangitis in Critically Ill Patients", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_617", "target": "Distal Renal Tubular Acidosis  secondary to Primary Sclerosing Cholangitis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_618", "target": "Heterozygous deletion of all coding exons of the HNF1B gene", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_619", "target": "Primary renal leiomyosarcoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_620", "target": "Low-grade malignant peripheral nerve sheath tumour", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_621", "target": "Primary uterine alveolar soft part sarcoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_622", "target": "Duane retraction syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_623", "target": "Inclusion Body Myopathy with Paget's Disease of Bone and Frontotemporal Dementia", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_624", "target": "Candida osteomyelitis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_625", "target": "Ewing Sarcoma/Primitive Neuroectodermal Tumor  of the stomach", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_626", "target": "Hepatic Angiosarcoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 8}
+{"id": "rds_case_627", "target": "Aseptic Osteonecrosis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_628", "target": "Suprasellar Meningioma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_629", "target": "Acoustic Schwannoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_630", "target": "15q13.3 microdeletion", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_631", "target": "Gonococcal tonsillar infection", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_632", "target": "Acute Myeloid Leukemia  with Myeloid Sarcoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 4}
+{"id": "rds_case_633", "target": "Cutaneous T-cell lymphoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 3}
+{"id": "rds_case_634", "target": "Follicular B cell lymphoma, grade three", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_635", "target": "Mitochondrial ND3 T10158C Mutation", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_636", "target": "Cystic Cochleovestibular Anomaly", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_637", "target": "Signet Cell Adenocarcinoma of the Stomach", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_638", "target": "High-grade urothelial carcinoma", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 1}
+{"id": "rds_case_639", "target": "Infected umbilical-urachal sinus due to urachal remnant", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_640", "target": "Papillary carcinoma arising in the thyroglossal duct cyst", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_641", "target": "Mesial Temporal Lobe Sclerosis", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_642", "target": "Dirofilariasis repens", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_643", "target": "Familial Mediterranean Fever", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 31}
+{"id": "rds_case_644", "target": "Congenital Methemoglobinemia with Unstable Hemoglobin Variant", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_645", "target": "Vitamin K-dependent coagulation factor deficiency", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_646", "target": "Acute Macular Neuroretinopathy  associated with COVID-19 infection", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_647", "target": "Isolated Thrombosis of the Superior Mesenteric Vein", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}
+{"id": "rds_case_648", "target": "Lesch-Nyhan Syndrome", "has_corpus_evidence": true, "n_same_disease_cases_in_corpus": 3}
+{"id": "rds_case_649", "target": "Myasthenia Gravis associated with thymolipoma", "has_corpus_evidence": false, "n_same_disease_cases_in_corpus": 0}

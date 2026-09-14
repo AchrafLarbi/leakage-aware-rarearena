@@ -1,0 +1,5 @@
+Model,Embedding,Embedding_Model,Technique,Paper,Exact_Match,Token_F1,ROUGE_L,Cosine_Sim,Semantic_Accuracy,Partial_Accuracy,Hallucination_Rate,Abstention_Rate,HGI,Avg_Inference_Time(s)
+BioMistral,biomed,NeuML/pubmedbert-base-embeddings,GraphRAG,"Edge et al., 2024 (arXiv:2404.16130)",0.055,0.07356839402427637,0.07856839402427637,0.2726623491966166,0.095,0.305,0.59,0.01,0.7868189746356564,27.2753800201416
+BioMistral,biomed,NeuML/pubmedbert-base-embeddings,KG-Augmented RAG,"Baek et al., 2023 (arXiv:2306.04136)",0.04,0.0778839303970883,0.0778839303970883,0.2775575218372978,0.08,0.375,0.545,0.0,0.7920567996707476,22.51162792444229
+BioMistral,biomed,NeuML/pubmedbert-base-embeddings,RAG-driven CoT,"Wang et al., 2025 (arXiv:2503.12286)",0.045,0.08304468630784419,0.08721135297451087,0.2640559681970626,0.08,0.295,0.555,0.07,0.7516711690797396,15.217984195947647
+BioMistral,biomed,NeuML/pubmedbert-base-embeddings,CoT-driven RAG,"Wang et al., 2025 (arXiv:2503.12286)",0.02,0.04430769230769231,0.04353846153846153,0.21249920126749203,0.045,0.27,0.505,0.18,0.6990750456205563,11.045457447767257

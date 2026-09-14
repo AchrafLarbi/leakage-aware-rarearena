@@ -1,0 +1,70 @@
+{
+ "n_eval": 650,
+ "n_docs": 129666,
+ "shingle_n": 8,
+ "sample_rate": 8,
+ "buckets": {
+  ">=0.90 (duplicate)": 0,
+  "0.50-0.90 (likely same case)": 0,
+  "0.20-0.50 (partial overlap)": 6,
+  "<0.20 (unrelated)": 644
+ },
+ "max": 0.3157894736842105,
+ "mean": 0.030577951543537728,
+ "flagged": [
+  {
+   "containment": 0.3157894736842105,
+   "disease": "Inflammatory Myofibroblastic Pseudotumour",
+   "doc": {
+    "source_id": "178342",
+    "title": "Inflammatory Myofibroblastic Pseudotumour",
+    "source": "rds_case_reports"
+   }
+  },
+  {
+   "containment": 0.25,
+   "disease": "Legionnaires' disease caused by L. pneumophila serogroup 3",
+   "doc": {
+    "source_id": "599480",
+    "title": "Acquired Factor VIII Deficiency",
+    "source": "rds_case_reports"
+   }
+  },
+  {
+   "containment": 0.2222222222222222,
+   "disease": "Isolated Bifid Uvula",
+   "doc": {
+    "source_id": "73263",
+    "title": "Oral Mucormycosis",
+    "source": "rds_case_reports"
+   }
+  },
+  {
+   "containment": 0.2,
+   "disease": "Malignant Melanotic Nerve Sheath Tumor",
+   "doc": {
+    "source_id": "221083",
+    "title": "Hemifacial Spasm",
+    "source": "rds_case_reports"
+   }
+  },
+  {
+   "containment": 0.2,
+   "disease": "Idiopathic Neuroretinitis",
+   "doc": {
+    "source_id": "98715",
+    "title": "Ocular toxoplasmosis",
+    "source": "rds_case_reports"
+   }
+  },
+  {
+   "containment": 0.2,
+   "disease": "Seronegative Myasthenia",
+   "doc": {
+    "source_id": "2103",
+    "title": "Guillain\u2013Barre syndrome",
+    "source": "rds_case_reports"
+   }
+  }
+ ]
+}

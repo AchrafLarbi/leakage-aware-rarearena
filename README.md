@@ -106,8 +106,10 @@ them at the end of a notebook, after the setup cells.
   the contaminated one); the baselines use 70 aliases mapped to 51 names. See `scripts/answer_normalization.py`.
 * **What is not in this repository.** Per-case prediction files stayed in the Kaggle sessions, so the
   Group A / Group B split of the evidence table cannot be recomputed from the saved files, and the
-  statistics use unpaired tests on counts. The enriched BioMistral run kept only its metrics file. The
-  contaminated CoT-RAG value in the paper comes from a re-run that is not in this repository.
+  statistics use unpaired tests on counts. The enriched BioMistral run kept only its metrics file.
+* **Two CoT-RAG variants.** The contaminated CoT-RAG value (35.0%, `advanced_biomistral_fast.ipynb`)
+  comes from the variant that extracts phenotype terms before retrieval; the de-leaked and enriched runs
+  retrieve with the full chain-of-thought reasoning (5 questions, up to 768 tokens) as the query.
   An exploratory phenopacket section was removed from `deleaked_biomistral_biomed.ipynb`; it is
   not used in the paper.
 * **Scope.** Only the retrieval corpus is decontaminated. Both models are pretrained on PubMed

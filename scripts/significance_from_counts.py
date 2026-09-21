@@ -45,7 +45,7 @@ def diff_ci(a, b, n=N):
 
 
 # correct answers out of 200 (exact match x 200)
-CONTAMINATED = {"RAG-CoT": 118, "CoT-RAG": 70, "GraphRAG": 101, "KAPING": 57}  # notebooks/contaminated/advanced_*.ipynb
+CONTAMINATED = {"RAG-CoT": 118, "CoT-RAG": 7, "GraphRAG": 101, "KAPING": 61}   # single biomed run (see README)
 DELEAKED     = {"RAG-CoT": 17, "GraphRAG": 11, "KAPING": 7, "CoT-RAG": 6}      # results/deleaked_biomistral_biomed.csv
 ENRICHED     = {"RAG-CoT": 9, "GraphRAG": 11, "KAPING": 8, "CoT-RAG": 4}       # results/enriched_biomistral_biomed.csv
 OPEN_FAST    = {"GraphRAG": 5, "KAPING": 4, "RAG-CoT": 4, "CoT-RAG": 3}        # results/deleaked_openbiollm_fast.csv

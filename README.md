@@ -50,7 +50,7 @@ results/                              saved outputs behind the numbers in the pa
 | Paper element | Source |
 |---|---|
 | Table "Stage 4 Without Graph Context" (contaminated) | `notebooks/contaminated/baselines_*.ipynb` (best embedding profile per version) |
-| Contamination gap table, contaminated column (RAG-CoT 59.0, GraphRAG 50.5, KAPING 30.5, CoT-RAG 3.5) | one BioMistral *biomed* run on `rag_corpus_final.jsonl` (see Notes) |
+| Contamination gap table, contaminated column (RAG-CoT 58.5, GraphRAG 50.5, KAPING 28.5, CoT-RAG 33.0) | `notebooks/contaminated/advanced_biomistral_biomed.ipynb` |
 | Contamination gap table, de-leaked column (RAG-CoT 8.5, GraphRAG 5.5, KAPING 3.5, CoT-RAG 3.0) | `notebooks/deleaked_biomistral_biomed.ipynb`, `results/deleaked_biomistral_biomed.csv` |
 | Contamination gap table, enriched column (RAG-CoT 4.5, GraphRAG 5.5, KAPING 4.0, CoT-RAG 2.0) | `results/enriched_biomistral_biomed.csv` |
 | OpenBioLLM on the de-leaked corpus (best 2.5%, abstention 54.0–88.0%) | `notebooks/deleaked_openbiollm_fast.ipynb`, `results/deleaked_openbiollm_fast.csv` |
@@ -107,14 +107,12 @@ them at the end of a notebook, after the setup cells.
 * **What is not in this repository.** Per-case prediction files stayed in the Kaggle sessions, so the
   Group A / Group B split of the evidence table cannot be recomputed from the saved files, and the
   statistics use unpaired tests on counts. The enriched BioMistral run kept only its metrics file.
-* **Contaminated column.** The contaminated column of the contamination gap table is one BioMistral run
-  with the *biomed* profile on the same 200 cases, like the de-leaked and enriched columns. Its per-case
-  file was not retained; its counts (118 / 101 / 61 / 7 correct) and the case-level comparison with the
-  enriched run (109 of the 118 correct answers become wrong) were computed from it before it was
-  overwritten. The EDiS notebooks in `notebooks/contaminated/` are close runs of the same pipeline
-  (biomed: RAG-CoT 58.5, GraphRAG 50.5, KAPING 28.5), except that their CoT-RAG extracts phenotype terms
-  before retrieval (33.0–35.0%), whereas this paper's CoT-RAG retrieves with its full chain-of-thought
-  reasoning (5 questions, up to 768 tokens).
+* **Contaminated vs de-leaked.** `notebooks/contaminated/advanced_biomistral_biomed.ipynb` and
+  `notebooks/deleaked_biomistral_biomed.ipynb` run the same code (retrieval, reranking, fusion weights,
+  prompts, exemplars, voting, normalization, scoring), the same 200 cases (seed 42) and the same *biomed*
+  profile; only the corpus file differs (130,316 vs 129,666 documents). The one exception is CoT-RAG: the
+  contaminated notebook extracts phenotype terms before retrieval (33.0%), while the de-leaked notebook
+  retrieves with its full chain-of-thought reasoning (5 questions, up to 768 tokens; 3.0%).
   An exploratory phenopacket section was removed from `deleaked_biomistral_biomed.ipynb`; it is
   not used in the paper.
 * **Scope.** Only the retrieval corpus is decontaminated. Both models are pretrained on PubMed

@@ -36,7 +36,8 @@ scripts/
   verify_deleak_semantic.py           8-word shingle containment check (no near-duplicates left)
   label_eval_evidence.py              Group A / Group B: does another case of the disease remain?
   build_orphanet_knowledge.py         4,337 Orphanet disease-phenotype cards + enriched corpus
-  significance_from_counts.py         Fisher tests, bootstrap and difference intervals of Section IV
+  paired_tests.py                     case-level losses, McNemar and bootstrap from the per-case files
+  significance_from_counts.py         Fisher test and difference interval for the enrichment comparison
   answer_normalization.py             alias tables and fuzzy disease-name matching (reading copy)
   notebook_cells/
     r23_embedding_deleak_check.py     embedding check with a positive control (paste into a notebook)
@@ -50,11 +51,12 @@ results/                              saved outputs behind the numbers in the pa
 | Paper element | Source |
 |---|---|
 | Table "Stage 4 Without Graph Context" (contaminated) | `notebooks/contaminated/baselines_*.ipynb` (best embedding profile per version) |
-| Contamination gap table, contaminated column (RAG-CoT 58.5, GraphRAG 50.5, KAPING 28.5, CoT-RAG 33.0) | `notebooks/contaminated/advanced_biomistral_biomed.ipynb` |
-| Contamination gap table, de-leaked column (RAG-CoT 8.5, GraphRAG 5.5, KAPING 3.5, CoT-RAG 3.0) | `notebooks/deleaked_biomistral_biomed.ipynb`, `results/deleaked_biomistral_biomed.csv` |
+| Contamination gap table, contaminated column (RAG-CoT 57.0, GraphRAG 48.5, KAPING 27.5, CoT-RAG 3.5) | `notebooks/contaminated_biomistral_biomed.ipynb`, `results/contaminated_biomistral_biomed*.csv` |
+| Contamination gap table, de-leaked column (RAG-CoT 8.5, GraphRAG 5.5, KAPING 3.5, CoT-RAG 3.0) | `notebooks/deleaked_biomistral_biomed.ipynb`, `results/deleaked_biomistral_biomed*.csv` |
 | Contamination gap table, enriched column (RAG-CoT 4.5, GraphRAG 5.5, KAPING 4.0, CoT-RAG 2.0) | `results/enriched_biomistral_biomed.csv` |
 | OpenBioLLM on the de-leaked corpus (best 2.5%, abstention 54.0–88.0%) | `notebooks/deleaked_openbiollm_fast.ipynb`, `results/deleaked_openbiollm_fast.csv` |
-| Fisher p-values, bootstrap and difference intervals | `python scripts/significance_from_counts.py` |
+| Case-level losses (98 of 114), McNemar p-values, bootstrap intervals | `python scripts/paired_tests.py` (per-case files) |
+| Enrichment comparison (Fisher, difference interval) | `python scripts/significance_from_counts.py` (counts only) |
 | 650 documents removed, 129,666 kept | `python scripts/deleak_corpus.py` |
 | Shingle containment max 0.32, mean 0.03 | `scripts/verify_deleak_semantic.py` → `results/deleak_verification.json` |
 | Embedding check: 650/650 at rank 1 (contaminated), max 0.97 / mean 0.85 (de-leaked) | `scripts/notebook_cells/r23_embedding_deleak_check.py` → `results/r23_*.{json,csv}` |
@@ -104,15 +106,17 @@ them at the end of a notebook, after the setup cells.
 * **Answer normalization.** The advanced versions use 10 aliases mapped to 7 names plus a dictionary
   of names built from the corpus and the concept graph (41,136 names on the de-leaked corpus, 41,538 on
   the contaminated one); the baselines use 70 aliases mapped to 51 names. See `scripts/answer_normalization.py`.
-* **What is not in this repository.** Per-case prediction files stayed in the Kaggle sessions, so the
-  Group A / Group B split of the evidence table cannot be recomputed from the saved files, and the
-  statistics use unpaired tests on counts. The enriched BioMistral run kept only its metrics file.
-* **Contaminated vs de-leaked.** `notebooks/contaminated/advanced_biomistral_biomed.ipynb` and
-  `notebooks/deleaked_biomistral_biomed.ipynb` run the same code (retrieval, reranking, fusion weights,
-  prompts, exemplars, voting, normalization, scoring), the same 200 cases (seed 42) and the same *biomed*
-  profile; only the corpus file differs (130,316 vs 129,666 documents). The one exception is CoT-RAG: the
-  contaminated notebook extracts phenotype terms before retrieval (33.0%), while the de-leaked notebook
-  retrieves with its full chain-of-thought reasoning (5 questions, up to 768 tokens; 3.0%).
+* **What is not in this repository.** The enriched BioMistral run kept only its metrics file, so the
+  enrichment comparison uses an unpaired test on counts and the Group A / Group B split of the evidence
+  table cannot be recomputed. The contaminated and de-leaked runs do have per-case files, so their
+  comparisons are paired (`scripts/paired_tests.py`).
+* **Contaminated vs de-leaked.** `notebooks/contaminated_biomistral_biomed.ipynb` is
+  `notebooks/deleaked_biomistral_biomed.ipynb` with only the corpus changed
+  (`rag_corpus_final.jsonl` instead of `rag_corpus_clean.jsonl`): same code for all four versions, same
+  200 cases (seed 42), same *biomed* profile and the same 335-node concept graph. It checks all three at
+  run time and stops otherwise. The notebooks in `notebooks/contaminated/` are the earlier runs behind
+  the baseline table; their CoT-RAG extracts phenotype terms before retrieval (33.0%) instead of
+  reasoning first (3.5%), so they are not used for the contamination gap table.
   An exploratory phenopacket section was removed from `deleaked_biomistral_biomed.ipynb`; it is
   not used in the paper.
 * **Scope.** Only the retrieval corpus is decontaminated. Both models are pretrained on PubMed

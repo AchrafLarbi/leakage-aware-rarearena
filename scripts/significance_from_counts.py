@@ -2,9 +2,10 @@
 Statistics reported in Section IV of the paper, recomputed from correct-answer
 counts on the 200 evaluated cases.
 
-Only aggregate counts were kept for these runs (see results/*.csv), so every
-comparison uses the unpaired Fisher exact test, which is conservative relative
-to the paired McNemar test.
+The contaminated and de-leaked runs also have per-case files: for those, use
+scripts/paired_tests.py, which runs the paired McNemar test reported in the paper.
+Only aggregate counts were kept for the enriched run, so that comparison uses the
+unpaired Fisher exact test, which is conservative relative to McNemar.
 
   * Fisher exact test (two-sided) between two versions
   * 95% percentile bootstrap interval of one exact-match rate
@@ -45,7 +46,7 @@ def diff_ci(a, b, n=N):
 
 
 # correct answers out of 200 (exact match x 200)
-CONTAMINATED = {"RAG-CoT": 117, "CoT-RAG": 66, "GraphRAG": 101, "KAPING": 57}  # notebooks/contaminated/advanced_biomistral_biomed.ipynb
+CONTAMINATED = {"RAG-CoT": 114, "CoT-RAG": 7, "GraphRAG": 97, "KAPING": 55}    # notebooks/contaminated_biomistral_biomed.ipynb
 DELEAKED     = {"RAG-CoT": 17, "GraphRAG": 11, "KAPING": 7, "CoT-RAG": 6}      # results/deleaked_biomistral_biomed.csv
 ENRICHED     = {"RAG-CoT": 9, "GraphRAG": 11, "KAPING": 8, "CoT-RAG": 4}       # results/enriched_biomistral_biomed.csv
 OPEN_FAST    = {"GraphRAG": 5, "KAPING": 4, "RAG-CoT": 4, "CoT-RAG": 3}        # results/deleaked_openbiollm_fast.csv
